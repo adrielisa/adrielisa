@@ -2,7 +2,10 @@
 
 I am a software engineering student from Cancún, Mexico 🏖️☀️
 
-![image](https://github.com/user-attachments/assets/d236d96a-711f-4e74-b06e-79010a7c25e4)
+Me around the web:
+  Linkedin: berkeli Twitter: halmyradov Instagram: halmyradov GitHub: berkeli StackOverflow: berkeli CodeWars: BerkeliH LeetCode: berkeli CodePen: berkeli
+
+ 
 
 
 
