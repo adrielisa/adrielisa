@@ -28,8 +28,6 @@ I am a software engineering student from Cancún, Mexico 🏖️☀️
 
 ---
 
-[StefanosSt](https://github.com/StefanosSt)
-Last Edited on : 13/08/2023
 
 
 <!---
