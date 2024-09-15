@@ -1,4 +1,4 @@
-👋 Hi, I’m Adriel!
+Hi, I’m Adriel!
 
 I am a software engineering student from Cancún, Mexico 🏖️☀️
 
