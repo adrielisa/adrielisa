@@ -3,6 +3,11 @@
 I am a software engineering student from Cancún, Mexico 🏖️☀️
 
 
+
+https://github.com/user-attachments/assets/24f917f8-4a2d-40f0-9d33-57768c2db48c
+
+
+
 ## Me around the web:
 -------------------
 
