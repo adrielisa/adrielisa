@@ -2,8 +2,7 @@
 
 I am a software engineering student from Cancún, Mexico 🏖️☀️
 
-
-![Diseño sin título](https://github.com/user-attachments/assets/2e32dd8c-20f3-4f8b-8413-2e0464396188)
+![Diseño sin título (1)](https://github.com/user-attachments/assets/fcee6034-365c-4e2e-93b5-06d5e0ecc6d2)
 
 
 
