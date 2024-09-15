@@ -15,14 +15,11 @@ I am a software engineering student from Cancún, Mexico 🏖️☀️
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/stefanos-stamoulis/" target="_blank">
+<a href="https://www.linkedin.com/in/adriel-isai-rodriguez-pacheco-268693225/" target="_blank">
   <img align="center" alt="Adrielisa  | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/adrielissaa/" target="_blank">
   <img align="center" alt="Adrielisa | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:sstamoulis.wd@gmail.com" >
-  <img align="center" alt="Adrielisa  | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <p>
 <p align="center">
