@@ -1,5 +1,5 @@
-Hi, I’m Adriel!
-<p align="center"> I am a software engineering student from Cancún, Mexico 🏖️☀️ >
+<p Hi, I’m Adriel!
+ align="center"> I am a software engineering student from Cancún, Mexico 🏖️☀️ >
 
 
  
