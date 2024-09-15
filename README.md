@@ -2,8 +2,9 @@
 
 I am a software engineering student from Cancún, Mexico 🏖️☀️
 
+![Tarjeta Horizontal Gracias Creativo Multicolor](https://github.com/user-attachments/assets/23924c20-e187-43f5-a6ab-0585dc4fa56d)
 
-![Tarjeta Horizontal Gracias Creativo Multicolor](https://github.com/user-attachments/assets/a317b777-e020-438b-8d2b-5d26afc035be)
+
 
 
 
