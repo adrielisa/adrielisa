@@ -2,7 +2,7 @@
 
 I am a software engineering student from Cancún, Mexico 🏖️☀️
 
-![Tarjeta Horizontal Gracias Creativo Multicolor](https://github.com/user-attachments/assets/23924c20-e187-43f5-a6ab-0585dc4fa56d)
+(https://github.com/user-attachments/assets/23924c20-e187-43f5-a6ab-0585dc4fa56d)
 
 
 
@@ -21,23 +21,11 @@ I am a software engineering student from Cancún, Mexico 🏖️☀️
     ![Twitter: halmyradov](https://img.shields.io/twitter/follow/halmyradov?style=social)
 </a>
 <a href="https://www.instagram.com/halmyradov/">
-    ![Instagram: halmyradov](https://img.shields.io/badge/-halmyradov-000?&logo=Instagram)
+    ![Instagram: adrielissaa](https://www.instagram.com/adrielissaa/)
 </a>
 <a href="https://github.com/berkeli">
     ![GitHub: berkeli](https://img.shields.io/github/followers/berkeli?label=follow&style=social)
-</a>
-<a href="https://stackoverflow.com/users/14958897/berkeli">
-    ![StackOverflow: berkeli](https://img.shields.io/stackexchange/stackoverflow/r/14958897?style=social)
-</a>
-<a href="https://www.codewars.com/users/BerkeliH">
-    ![CodeWars: BerkeliH](https://www.codewars.com/users/BerkeliH/badges/small)
-</a>
-<a href="https://www.leetcode.com/berkeli/">
-    ![LeetCode: berkeli](https://img.shields.io/badge/-berkeli-000?&logo=LeetCode)
-</a>
-<a href="https://codepen.io/berkeli">
-    ![CodePen: berkeli](https://img.shields.io/badge/-berkeli-000?&logo=CodePen)
-</a>
+}
 
 
 
