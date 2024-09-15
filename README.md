@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Adriel!
+👋 Hi, I’m Adriel!
 
 I am a software engineering student from Cancún, Mexico 🏖️☀️
 
+![image](https://github.com/user-attachments/assets/d236d96a-711f-4e74-b06e-79010a7c25e4)
 
 
 
