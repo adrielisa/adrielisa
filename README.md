@@ -19,13 +19,6 @@
 ### 🛠 &nbsp;Tech Stack
 
 
-<!--HTML-->
-![image](https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png)
-
-<!--BootsTrap-->
-
-![image](https://github.com/user-attachments/assets/6fef1e6b-5a58-4be5-aba4-5ffb45d2c5de)
-
 
 <!--JS-->
 
