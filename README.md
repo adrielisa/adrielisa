@@ -18,6 +18,12 @@
 
 ### 🛠 &nbsp;Tech Stack
 
+<div class="tech-stack 
+  style="  display: flex;
+  flex-wrap: wrap; 
+  justify-content: center; 
+  gap: 10px;">
+
 <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" style="width:40px;height:auto;">
 <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" style="width:40px;height:auto;">
 <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" style="width:40px;height:auto;">
@@ -38,6 +44,8 @@
 <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" style="width:40px;height:auto;">
 <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" style="width:40px;height:auto;">
 <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" style="width:40px;height:auto;">
+
+</div>
 
 
 
