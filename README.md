@@ -79,6 +79,17 @@
 ---
 
 
+  <h2>Stats</h2>
+  <br />
+  <a href="https://github.com/celestecruzzg">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielisa&theme=dark&hide_langs_below=1" />
+  </a>
+  
+  <a href="https://github.com/celestecruzzg">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adrielisa&show_icons=true&theme=dracula&line_width=27" alt="**Celes** github stats" />
+  </a>
+</div>
+</body>
 
 <!---
 adrielisa/adrielisa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
