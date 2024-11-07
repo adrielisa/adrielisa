@@ -87,7 +87,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielisa&theme=dark&hide_langs_below=1" />
   </a>
   
-  <a href="https://github.com/celestecruzzg">
+  <a href="https://github.com/adrielisa">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adrielisa&show_icons=true&theme=dracula&line_width=27" alt="**adrielisa** github stats" />
   </a>
 </div>
