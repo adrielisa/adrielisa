@@ -16,7 +16,7 @@
 
 
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack (Just know how to make a hello world)
 
 <div class="tech-stack 
   style="  display: flex;
