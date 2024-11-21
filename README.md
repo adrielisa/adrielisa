@@ -12,7 +12,6 @@
 
 
 
-![Adrielisa](https://github.com/user-attachments/assets/4bafe115-a87e-4d4b-8b4a-2abc79972b38)
 
 
 
