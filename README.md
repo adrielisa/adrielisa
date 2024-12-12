@@ -85,9 +85,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielisa&theme=dark&hide_langs_below=1" />
   </a>
 
-<a href="https://github.com/adrielisa">
 [![Adrielisa's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adrielisa)](https://github.com/anuraghazra/github-readme-stats)
-</a>
 
 </div>
 </body>
