@@ -86,7 +86,7 @@
   </a>
   
   <a href="https://github.com/adrielisa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adrielisa&show_icons=true&theme=dracula&line_width=27" alt="**adrielisa** github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=adrielisa)](https://github.com/anuraghazra/github-readme-stats" />
   </a>
 </div>
 </body>
