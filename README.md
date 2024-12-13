@@ -79,15 +79,18 @@
 ---
 
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; gap: 20px; margin-top: 20px;">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; min-height: 100vh;">
   <h2>Stats</h2>
+  <br />
   <a href="https://github.com/adrielisa">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielisa&theme=dark&hide_langs_below=1" />
   </a>
+  <br />
   <a href="https://wakatime.com/@adrielisa">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adrielisa" />
   </a>
 </div>
+
 
 </body>
 
