@@ -79,15 +79,18 @@
 ---
 
 
+<div style="text-align: center;">
   <h2>Stats</h2>
   <br />
   <a href="https://github.com/adrielisa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielisa&theme=dark&hide_langs_below=1" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielisa&theme=dark&hide_langs_below=1" />
   </a>
-
-  [![Adrielisa's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adrielisa)](https://wakatime.com/@adrielisa)
-
+  <br /><br />
+  <a href="https://wakatime.com/@adrielisa">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=adrielisa" />
+  </a>
 </div>
+
 </body>
 
 <!---
