@@ -3,7 +3,7 @@
 <p align="center">I wanna be one of the bests</p>
 <h4 align="center">ENGLISH B2 / SPANISH NATIVE / JAPANESE N5</h4>
 
-<h2 align="center">"From stardust we came, to the stars we shall return"</h4>
+<h2 align="center">"Tomorrow isn’t waiting, it’s calling"</h4>
 
 
 
