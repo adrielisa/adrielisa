@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I’m Adriel!  </h1>
 <p align="center">I am a software engineering student from Cancún, Mexico 🏖️☀️ </p>
-<p align="center">I wanna be one of the bests, i want to be someone able to change the world </p>
+<p align="center">I wanna be one of the bests</p>
 <h4 align="center">ENGLISH B2 / SPANISH NATIVE / JAPANESE N5</h4>
 
+<h2 align="center">"From stardust we came, to the stars we shall return"</h4>
 
 
 
