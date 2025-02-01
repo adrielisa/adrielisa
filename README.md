@@ -82,7 +82,7 @@
 ---
 
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; min-height: 100vh;">
+<div align="center">
   <h2>Stats</h2>
   <br />
   <a href="https://github.com/adrielisa">
@@ -93,11 +93,3 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adrielisa" />
   </a>
 </div>
-
-
-</body>
-
-<!---
-adrielisa/adrielisa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
