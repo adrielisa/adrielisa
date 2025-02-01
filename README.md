@@ -87,7 +87,10 @@
   <br />
   <a href="https://github.com/adrielisa">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielisa&theme=dark&hide_langs_below=1" />
-  </a>
+  </a
+  <br />
+  <br />
+  <br />
   <br />
   <a href="https://wakatime.com/@adrielisa">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adrielisa" />
