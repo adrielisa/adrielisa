@@ -89,7 +89,7 @@
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielisa&theme=dark&hide_langs_below=1" width="100%"> 
         </a>
       </td>
-      <td valign="top" width="20%">
+      <td valign="top" width="30%">
         <a href="https://wakatime.com/@adrielisa">
           <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adrielisa" width="100%"> 
         </a>
