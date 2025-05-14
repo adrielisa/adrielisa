@@ -84,14 +84,14 @@
   <h2>Stats</h2>
   <table>
     <tr>
-      <td valign="top" width="20%" style="padding-right: 20px;"> <!-- Añadido padding-right -->
+      <td valign="top" width="50%" style="padding-right: 20px;">
         <a href="https://github.com/adrielisa">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielisa&theme=dark&hide_langs_below=1" width="100%"> 
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielisa&theme=dark&hide_langs_below=1" style="height: 200px; width: 100%;"> <!-- Altura fija -->
         </a>
       </td>
-      <td valign="top" width="30%">
+      <td valign="top" width="50%">
         <a href="https://wakatime.com/@adrielisa">
-          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adrielisa" width="100%"> 
+          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adrielisa" style="height: 200px; width: 100%;"> <!-- Altura fija -->
         </a>
       </td>
     </tr>
