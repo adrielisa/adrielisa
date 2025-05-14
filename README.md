@@ -86,12 +86,12 @@
     <tr>
       <td valign="top" width="50%" style="padding-right: 20px;">
         <a href="https://github.com/adrielisa">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielisa&theme=dark&hide_langs_below=1" style="height: 200px; width: 100%;"> <!-- Altura fija -->
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielisa&theme=dark&hide_langs_below=1" style="height: 400px; width: 100%;"> <!-- Altura duplicada -->
         </a>
       </td>
       <td valign="top" width="50%">
         <a href="https://wakatime.com/@adrielisa">
-          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adrielisa" style="height: 200px; width: 100%;"> <!-- Altura fija -->
+          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adrielisa" style="height: 400px; width: 100%;"> <!-- Altura duplicada -->
         </a>
       </td>
     </tr>
