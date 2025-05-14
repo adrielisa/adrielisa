@@ -82,12 +82,18 @@
 
 <div align="center">
   <h2>Stats</h2>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <a href="https://github.com/adrielisa">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielisa&theme=dark&hide_langs_below=1" width="45%" />
-    </a>
-    <a href="https://wakatime.com/@adrielisa">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adrielisa" width="45%" />
-    </a>
-  </div>
+  <table>
+    <tr>
+      <td valign="top" width="50%" style="padding-right: 20px;"> <!-- Añadido padding-right -->
+        <a href="https://github.com/adrielisa">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielisa&theme=dark&hide_langs_below=1" width="100%"> 
+        </a>
+      </td>
+      <td valign="top" width="50%">
+        <a href="https://wakatime.com/@adrielisa">
+          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adrielisa" width="100%"> 
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
