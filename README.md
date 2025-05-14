@@ -77,8 +77,6 @@
 
 
 
-
-
 ---
 
 
@@ -96,3 +94,9 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adrielisa" />
   </a>
 </div>
+
+<div align="center">
+  <h2>Projects i have worked</h2>
+  <a href="https://wakatime.com/badge/user/b51fab5e-d1ca-4981-bc26-0319a09d793e/project/421c2c84-ec02-46da-bb23-518116519b0d"><img src="https://wakatime.com/badge/user/b51fab5e-d1ca-4981-bc26-0319a09d793e/project/421c2c84-ec02-46da-bb23-518116519b0d.svg" alt="wakatime"></a>
+</div>
+
