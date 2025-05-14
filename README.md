@@ -84,12 +84,12 @@
   <h2>Stats</h2>
   <table>
     <tr>
-      <td valign="top" width="50%" style="padding-right: 20px;"> <!-- Añadido padding-right -->
+      <td valign="top" width="40%" style="padding-right: 20px;"> <!-- Añadido padding-right -->
         <a href="https://github.com/adrielisa">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielisa&theme=dark&hide_langs_below=1" width="100%"> 
         </a>
       </td>
-      <td valign="top" width="25%">
+      <td valign="top" width="35%">
         <a href="https://wakatime.com/@adrielisa">
           <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adrielisa" width="100%"> 
         </a>
