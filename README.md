@@ -98,6 +98,3 @@
   </table>
 </div>
 
-<div align="center">
-[![wakatime](https://wakatime.com/badge/user/b51fab5e-d1ca-4981-bc26-0319a09d793e.svg)](https://wakatime.com/@b51fab5e-d1ca-4981-bc26-0319a09d793e)
-</div>
