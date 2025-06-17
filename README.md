@@ -70,10 +70,10 @@
 <p align="center">
 <a align="center" href="https://www.linkedin.com/in/adriel-isai-rodriguez-pacheco-268693225/" target="_blank">
   <img align="center" alt="Adrielisa  | Linkedin" width="24px" src="https://github.com/adrielisa/Icons/blob/main/social%20media/linkedin.png" />
-</a> &nbsp;&nbsp;
+</a> 
 <a align="center" href="https://www.instagram.com/adrielissaa/" target="_blank">
   <img align="center" alt="Adrielisa | Instagram" width="24px" src="https://github.com/adrielisa/Icons/blob/main/social%20media/instagram.png" />
-</a> &nbsp;&nbsp;
+</a> 
 <p>
 </div>
 
