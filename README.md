@@ -95,7 +95,5 @@
 </div>
 <div align="center">
   <h2>Coding hours</h2>
-  <a href="https://wakatime.com/@b51fab5e-d1ca-4981-bc26-0319a09d793e">
-    <img src="https://wakatime.com/badge/user/b51fab5e-d1ca-4981-bc26-0319a09d793e.svg" alt="wakatime badge">
-  </a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@adrielisa/a40e2325-4acb-4045-8f5f-9384182a2fa6.png" /></a>
 </div>
