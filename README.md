@@ -75,25 +75,3 @@
   <img align="center" alt="Adrielisa | Instagram" width="24px" src="https://github.com/adrielisa/Icons/blob/main/social%20media/instagram.png" />
 </a>  -->
 </div>
-
-
-
----
-
-
-<div align="center">
-  <h2>Stats</h2>
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <a href="https://wakatime.com/@adrielisa">
-          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adrielisa" style="height: 400px; width: 100%;"> <!-- Altura duplicada -->
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-<div align="center">
-  <h2>Coding hours</h2>
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@adrielisa/a40e2325-4acb-4045-8f5f-9384182a2fa6.png" /></a>
-</div>
