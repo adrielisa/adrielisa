@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I’m Adriel!  </h1>
-<p align="center">I am a software engineering student from Cancún, Mexico 🏖️☀️ </p>
+<p align="center">I am a software engineering from Cancún, Mexico 🏖️☀️ </p>
 <p align="center">I wanna be one of the bests</p>
 <h4 align="center">ENGLISH B2 / SPANISH NATIVE / JAPANESE N5</h4>
 
