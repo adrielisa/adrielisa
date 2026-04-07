@@ -7,13 +7,6 @@
 
 
 
-<div align="center">
-
-![Imagen](https://github.com/adrielisa/adrielisa/blob/main/Adrielisa%20(1).png)
-
-</div>
-
-
 
 
 ### 🛠 &nbsp;Tech Stack (Just know how to make a hello world)
