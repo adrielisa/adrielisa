@@ -5,7 +5,7 @@
 Software Engineer from **Cancún, Mexico** 🏖️  
 Building clean software, automating workflows, and aiming to be among the best.
 
-`Spanish (Native)` · `English (B2)` · `Japanese (N5)`
+`Spanish (Native)` · `English (B2)` 
 
 *"Tomorrow isn’t waiting, it’s calling"*
 
