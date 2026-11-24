@@ -13,10 +13,13 @@ Building clean software, automating workflows, and aiming to be among the best.
 
 <br>
 
+<div align="center">
+
 ### Tech Stack
 <sub>*(Technologies and tools I work with and continue to explore)*</sub>
 
-<p align="center">
+<br><br>
+
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="36" alt="HTML5" /> &nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="36" alt="CSS3" /> &nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" width="36" alt="JavaScript" /> &nbsp;
@@ -32,7 +35,8 @@ Building clean software, automating workflows, and aiming to be among the best.
   <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" width="36" alt="Linux" /> &nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" width="36" alt="VS Code" /> &nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width="36" alt="Figma" />
-</p>
+
+</div>
 
 <br>
 
